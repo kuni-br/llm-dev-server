@@ -1,0 +1,13 @@
+# Ambientes Virtuais Python
+venv/
+env/
+
+# Dependências Node.js
+node_modules/
+
+# Modelos de Linguagem e Datasets
+*.bin
+*.pt
+*.gguf
+datasets/
+models/
